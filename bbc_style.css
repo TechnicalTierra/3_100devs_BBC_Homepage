@@ -7,13 +7,13 @@
 body {
 	margin: 0 auto;
 	font-family:'Roboto', sans-serif;
-;
 }
 
 /* header & navbar */
 header {
 	background-color: black;
 	color: white;
+	margin: 0 auto;
 } 
 .navDiv {
 	display: inline-block;
